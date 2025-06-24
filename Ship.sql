@@ -164,9 +164,3 @@ ORDER BY
 -- buttom-line: furniture has table, bookcases. tech has machines 2020 year, office supplies has supplies.
 
 
-
-- Months 4 and 11 in both years has lowest profit.
-- The tech and furniture has low total orders, however the profit is low in furniture and tech is high.
-- furniture: table  & bookcases.
-- tech: machines 2020 year.
-- office supplies: supplies.
